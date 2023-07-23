@@ -2,7 +2,7 @@
 Aqui foi desenvolvido um jogo multiplayer, para dois jogadores, conhecido popularmente como "Jogo da Velha", como requisito de avaliação dissertativa do curso de FULLSTACK. Instruções: O 1° Jogador iniciará jogando com o personagem de sua escolha. Clique nos espaços vazios para posicionar o seu personagem, e confirme qual é esse personagem, o primeiro a completar uma faixa, vence. Boa sorte jogadores e que vença o melhor..
 
 ## Layout do Projeto
-<img src = "">
+<img src = "Img/img2.png">
 
 ## Tecnologias Utilizadas
 Front End: HTML5, CSS e JavaScript
@@ -240,12 +240,13 @@ button:hover{background-color: rgb(243, 74, 13);}
 
 ## Funcionalidas
 ° Tratamento de erro ao informar personagem que não existe.
+° Botão de reinicialização.
 
 ## Propostas Futuras
-° 1. Adicionar placar </br>
-° 2. Adicionar mensagem de vencedor ao fim de cada rodada </br>
-° 3. Adicionar opção de escolha de personagem </br>
-° 4. Adicionar temas de cores ao projeto à escolha do usuário  
+° 1. Adicionar placar. </br>
+° 2. Adicionar mensagem de vencedor ao fim de cada rodada. </br>
+° 3. Adicionar opção de escolha de personagem. </br>
+° 4. Adicionar temas de cores ao projeto à escolha do usuário.  
 
 ## Autor
 
