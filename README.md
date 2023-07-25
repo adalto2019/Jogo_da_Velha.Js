@@ -238,9 +238,9 @@ button{border-radius: 15px;}
 button:hover{background-color: rgb(243, 74, 13);}
 ~~~
 
-## Funcionalidas
-° Tratamento de erro ao informar personagem que não existe.
-° Botão de reinicialização.
+## Funcionalidades
+° Tratamento de erro ao informar personagem que não existe. </br>
+° Botão de reinicialização (utilizando o método: window.location.reload()).
 
 ## Propostas Futuras
 ° 1. Adicionar placar. </br>
